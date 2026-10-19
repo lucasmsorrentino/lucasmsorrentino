@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas 👋
 
-**I build LLM agents, RAG systems and automation for document-heavy, regulated workflows.**
+**I build LLM agents, RAG and GraphRAG systems, and automation for document-heavy, regulated workflows.**
 
 I hold a technologist degree in Systems Analysis and Development (UNINTER) and a postgraduate specialization in Applied Artificial Intelligence (UFPR), and I'm now pursuing a second one, in Generative AI (UFPR). At the Innovation Studio of the Paraná State Court of Audit (TCE-PR), I develop generative AI tools that support audit work. I've been a public servant at the Federal University of Paraná (UFPR) since 2017, where I research AI for administrative processes. I also hold a BA in Social Sciences and spent three years on household surveys and territorial mapping at IBGE, Brazil's national statistics office.
 
