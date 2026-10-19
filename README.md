@@ -33,9 +33,12 @@ Interests: human-in-the-loop LLM agents, automatic prompt optimization, hybrid v
 
 #### Toolbox
 
-**AI & data:** Python, LangGraph, LangChain, LiteLLM, Ollama, LanceDB, Milvus, Pinecone, Neo4j, TensorFlow/Keras, pandas, R<br>
+**LLM agents:** LangGraph (multi-agent, parallel fan-out), Pydantic AI, Claude Agent SDK, Claude Code (skills, hooks, subagents, headless mode), tool calling, Microsoft Copilot Studio<br>
+**Agent patterns:** RAG, GraphRAG, RAPTOR, Self-Refine, Reflexion, model cascading with fallback, human-in-the-loop review, prompt-injection guardrails<br>
+**Model providers:** Anthropic, OpenAI and Azure OpenAI, Google Gemini, NVIDIA NIM, OpenRouter, DeepSeek, MiniMax and local models via Ollama, routed through LiteLLM<br>
+**Data & retrieval:** Python, LangChain, LanceDB, Milvus, Pinecone, Neo4j, TensorFlow/Keras, PyTorch, pandas, R<br>
 **Backend & infra:** FastAPI, Flask, SQL Server, SQLite, Docker, Oracle Cloud, Tailscale<br>
-**Also:** JavaScript, Flutter, C#/.NET, Microsoft Power Platform
+**Also:** JavaScript, Flutter, C#/.NET, Microsoft Power Platform, Playwright, browser-use, Hermes and OpenCode
 
 #### Education
 
@@ -80,9 +83,12 @@ Interesses: agentes de LLM com supervisão humana, otimização automática de p
 
 #### Ferramentas
 
-**IA e dados:** Python, LangGraph, LangChain, LiteLLM, Ollama, LanceDB, Milvus, Pinecone, Neo4j, TensorFlow/Keras, pandas, R<br>
+**Agentes de LLM:** LangGraph (multiagente, execução em paralelo), Pydantic AI, Claude Agent SDK, Claude Code (skills, hooks, subagentes, modo headless), tool calling, Microsoft Copilot Studio<br>
+**Padrões de agentes:** RAG, GraphRAG, RAPTOR, Self-Refine, Reflexion, cascata de modelos com fallback, revisão humana, proteção contra prompt injection<br>
+**Provedores de modelos:** Anthropic, OpenAI e Azure OpenAI, Google Gemini, NVIDIA NIM, OpenRouter, DeepSeek, MiniMax e modelos locais via Ollama, roteados pelo LiteLLM<br>
+**Dados e busca:** Python, LangChain, LanceDB, Milvus, Pinecone, Neo4j, TensorFlow/Keras, pandas, R<br>
 **Back-end e infraestrutura:** FastAPI, Flask, SQL Server, SQLite, Docker, Oracle Cloud, Tailscale<br>
-**Também:** JavaScript, Flutter, C#/.NET, Microsoft Power Platform
+**Também:** JavaScript, Flutter, C#/.NET, Microsoft Power Platform, Playwright, browser-use, Hermes, OpenCode, LLMs chineses e de código aberto e harnesses para agentes
 
 #### Formação
 
